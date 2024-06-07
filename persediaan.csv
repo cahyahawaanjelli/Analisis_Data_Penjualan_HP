@@ -1,0 +1,49 @@
+Bulan,Merk HP,Model HP,Jumlah Persediaan Awal,Jumlah Persediaan Akhir
+Jan,Samsung,Galaxy S21,100,150
+Jan,Apple,iPhone 13,150,200
+Jan,Xiaomi,Mi 11,120,170
+Jan,Oppo,Reno5,100,150
+Jan,Vivo,V21,80,130
+Jan,Huawei,P40,90,120
+Feb,Samsung,Galaxy S21,150,250
+Feb,Apple,iPhone 13,200,280
+Feb,Xiaomi,Mi 11,170,240
+Feb,Oppo,Reno5,150,210
+Feb,Vivo,V21,130,170
+Feb,Huawei,P40,120,150
+Mar,Samsung,Galaxy S21,250,270
+Mar,Apple,iPhone 13,280,300
+Mar,Xiaomi,Mi 11,240,260
+Mar,Oppo,Reno5,210,250
+Mar,Vivo,V21,170,210
+Mar,Huawei,P40,150,180
+Apr,Samsung,Galaxy S21,270,290
+Apr,Apple,iPhone 13,300,330
+Apr,Xiaomi,Mi 11,260,280
+Apr,Oppo,Reno5,250,290
+Apr,Vivo,V21,210,240
+Apr,Huawei,P40,180,210
+Mei,Samsung,Galaxy S21,290,300
+Mei,Apple,iPhone 13,330,360
+Mei,Xiaomi,Mi 11,280,290
+Mei,Oppo,Reno5,290,310
+Mei,Vivo,V21,240,270
+Mei,Huawei,P40,210,240
+Jun,Samsung,Galaxy S21,300,320
+Jun,Apple,iPhone 13,360,380
+Jun,Xiaomi,Mi 11,290,310
+Jun,Oppo,Reno5,310,340
+Jun,Vivo,V21,270,290
+Jun,Huawei,P40,240,270
+Jul,Samsung,Galaxy S21,320,340
+Jul,Apple,iPhone 13,380,400
+Jul,Xiaomi,Mi 11,310,330
+Jul,Oppo,Reno5,340,360
+Jul,Vivo,V21,290,310
+Jul,Huawei,P40,270,290
+Agu,Samsung,Galaxy S21,340,360
+Agu,Apple,iPhone 13,400,420
+Agu,Xiaomi,Mi 11,330,350
+Agu,Oppo,Reno5,360,380
+Agu,Vivo,V21,310,330
+Agu,Huawei,P40,290,310
